@@ -80,4 +80,7 @@
         height: 200px;
         margin-top: -30px;
     }
+    
+    .bg-img2-text{
+        line-clamp:10;
 }
